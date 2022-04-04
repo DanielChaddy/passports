@@ -1,0 +1,15 @@
+/Users/danielchaddy/Projects/Passports/Passports/bin/Debug/net6.0/Passports
+/Users/danielchaddy/Projects/Passports/Passports/bin/Debug/net6.0/Passports.deps.json
+/Users/danielchaddy/Projects/Passports/Passports/bin/Debug/net6.0/Passports.runtimeconfig.json
+/Users/danielchaddy/Projects/Passports/Passports/bin/Debug/net6.0/Passports.dll
+/Users/danielchaddy/Projects/Passports/Passports/bin/Debug/net6.0/Passports.pdb
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.csproj.AssemblyReference.cache
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.AssemblyInfoInputs.cache
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.AssemblyInfo.cs
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.csproj.CoreCompileInputs.cache
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.dll
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/refint/Passports.dll
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.pdb
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/Passports.genruntimeconfig.cache
+/Users/danielchaddy/Projects/Passports/Passports/obj/Debug/net6.0/ref/Passports.dll
